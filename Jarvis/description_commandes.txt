@@ -1,0 +1,32 @@
+Voici la liste des commandes possibles :
+
+$ commandes                 >>>   Liste toutes les commandes et leurs fonctions.
+$ clear                     >>>   Nettoie la console.
+$ heure                     >>>   Renvoie l'heure actuelle.
+$ date                      >>>   Renvoie la date du jour.
+$ jour                      >>>   Met la console en mode jour.
+$ nuit                      >>>   Met la console en mode nuit.
+$ bin                       >>>   Convertit un nombre décimal en binaire.
+$ hex                       >>>   Convertit un nombre décimal en hexadécimal.
+$ exec                      >>>   Exécute un fichier du répertoire courant.
+$ calcul                    >>>   Calculatrice à quatre opérations.
+$ meteo [pays] [ville]      >>>   Renvoie le bulletin météo du jour.
+$ cd [chemin]               >>>   Change le répertoire courant.
+$ pwd                       >>>   Affiche le répertoire courant.
+$ investloc                 >>>   Donne le rendement brut et net de charges d'un bien immobilier.
+$ anagrammes                >>>   Renvoie la liste des anagrammes d'un mot.
+$ pi                        >>>   Affiche la valeur de pi.
+$ definition [mot]          >>>   Affiche la définition de n'importe quel mot passé en paramètre
+$ anniv                     >>>   Renvoie la liste des anniversaires des personnes enregistrées
+$ anniv_add                    >>>   Ajoute une personne à la liste des anniversaires.
+$ anniv_remove                 >>>   Enlève une perosnne de la liste des anniversaires
+$ rr_party
+
+
+Commandes en cours de développement..
+ 
+$ todolist               >>> Renvoie la liste des choses à faire
+$ todolist_add           >>> Ajoute une nouvelle tache
+$ todolist_remove        >>> Enlève une tache
+$ rr_database            >>> Rentre les données du parti dans la database sqlite3
+$ améliorer l'input pour pouvoir rentrer des textes plus longs
